@@ -15,6 +15,7 @@
 		B1654C0C25CE6CD9004ECE34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1654C0A25CE6CD9004ECE34 /* LaunchScreen.storyboard */; };
 		B1654C1725CE6CD9004ECE34 /* SliderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1654C1625CE6CD9004ECE34 /* SliderTests.swift */; };
 		B1654C2225CE6CD9004ECE34 /* SliderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1654C2125CE6CD9004ECE34 /* SliderUITests.swift */; };
+		B1654C3325CE76F8004ECE34 /* imageCellCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1654C3225CE76F8004ECE34 /* imageCellCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B1654C1D25CE6CD9004ECE34 /* SliderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SliderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1654C2125CE6CD9004ECE34 /* SliderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderUITests.swift; sourceTree = "<group>"; };
 		B1654C2325CE6CD9004ECE34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1654C3225CE76F8004ECE34 /* imageCellCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageCellCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				B1654C0825CE6CD9004ECE34 /* Assets.xcassets */,
 				B1654C0A25CE6CD9004ECE34 /* LaunchScreen.storyboard */,
 				B1654C0D25CE6CD9004ECE34 /* Info.plist */,
+				B1654C3225CE76F8004ECE34 /* imageCellCollectionViewCell.swift */,
 			);
 			path = Slider;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				B1654C0425CE6CD8004ECE34 /* ViewController.swift in Sources */,
 				B1654C0025CE6CD8004ECE34 /* AppDelegate.swift in Sources */,
+				B1654C3325CE76F8004ECE34 /* imageCellCollectionViewCell.swift in Sources */,
 				B1654C0225CE6CD8004ECE34 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
